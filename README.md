@@ -1,0 +1,1 @@
+## Projeto para disciplina DWM 2025/1 do curso de Ciência da Computação da Universidade Federal do Tocantins Campus Palmas
